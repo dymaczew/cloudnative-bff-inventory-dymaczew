@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: inventory-bff-app
-  host: inventory-bff-app
+  name: inventory-bff-app-dymaczew
+  host: inventory-bff-app-dymaczew
   disk_quota: 1024M
   services:
-  - cloudnative-autoscale
+  - cloudnative-autoscale-dymaczew
